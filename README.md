@@ -11,8 +11,15 @@ To set up the project environment, ensure you have Python and necessary librarie
 
 ```bash
 pip install biopython numpy matplotlib
+```
 
-Features
-GC Content Calculation: Calculates the percentage of guanine (G) or cytosine (C) in a DNA sequence, which is indicative of the sequence's stability.
-Identification of Open Reading Frames (ORFs): Identifies potential protein-coding regions in a DNA sequence, starting with a start codon and ending with a stop codon.
-Detection of Common Motifs: Searches for known motifs within the sequence, which can have significant biological implications.
+## Features
+
+ ### GC Content Calculation: 
+ Calculates the percentage of guanine (G) or cytosine (C) in a DNA sequence, which is indicative of the sequence's stability.
+
+### Identification of Open Reading Frames (ORFs):
+Identifies potential protein-coding regions in a DNA sequence, starting with a start codon and ending with a stop codon.
+
+### Detection of Common Motifs: 
+Searches for known motifs within the sequence, which can have significant biological implications.
